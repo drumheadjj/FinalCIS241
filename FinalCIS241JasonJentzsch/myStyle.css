@@ -1,0 +1,55 @@
+body {
+background: #196dff;
+text-align: center;
+}
+
+#main {
+text-align: center;
+Width: 1200px;
+Height: 600px;
+background: #ffab19;
+margin: 1000px auto;
+border: solid 4px #ff3819;
+padding: 10px;
+}
+
+h1 {
+text-align: center;
+Width: 365px;
+Height: 50px;
+background: #ffab19;	
+font-family: "Times New Roman";
+font: 25pt;
+border: solid 4px #ff3819;
+}
+
+h2 {
+text-align: center;
+Width: 1200px;
+Height: 300px;
+background: #ffab19;
+font-family: "Times New Roman";
+margin: 40px auto;
+border: solid 4px #ff3819;
+padding: 20px;
+font: 35pt;
+}
+
+h3 {
+Width: 1200px;
+Height: 300px;
+background: #ffab19;
+font-family: "Times New Roman";
+margin: 40px auto;
+border: solid 4px #ff3819;
+padding: 20px;
+}	
+	
+Table th {
+	text_align: left;
+}
+
+Table td {
+	border: 2px solid #ff3819;
+	padding: 10px 55px;
+}
